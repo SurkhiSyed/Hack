@@ -142,6 +142,12 @@ function draw() {
   drawSprites();
 }
 
+window.onload = function() {
+  document.getElementById('connectButton').addEventListener('click', function() {
+      window.connectToMetaMask();
+  });
+}
+
 function spawnClouds() {
   //write code here to spawn the clouds
   if (frameCount % 60 === 0) {
@@ -204,4 +210,18 @@ function reset(){
   
   score = 0;
   
+}
+
+window.connectToMetaMask = async function() {
+  if (window.ethereum) { 
+      try {
+          const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
+          const account = accounts[0];
+          console.log(account);
+      } catch (error) {
+          console.error(error);
+      }
+  } else {
+      alert("MetaMask is not installed. Please consider installing it: https://metamask.io/download.html");
+  }
 }
