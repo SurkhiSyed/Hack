@@ -24,6 +24,12 @@ This was the first time we were using Blockchain, and we had no knowledge or exp
 
 We're proud to be able to bring forth a way for users to leverage a way of payment for web3 players by using Blockchain wallets, a growing futuristic method of payment and transfer of valuables. Above all else, we're proud to be able to learn to leverage this new technology from scratch and implement it to create functional projects.
 
+### What's Next?
+
+Altough due to the time contriction, DinoNFT came as a prototype and did not quite encorporate all our visions, we aim to continue developing it to our goal. Beyond establishing a secure connection between the owner and player's wallets, we will develop the project to start tranferring tokens effectively. Furthermore, we will set up DinoNFT as a React.js app and develop a way for the transfer of tokens through a multi-game platform.
+
+***
+
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
 Try running some of the following tasks:
