@@ -18,7 +18,11 @@ This projedct was built using Javascript and p5.js along with various game compo
 
 ### Chaellenges We Ran Into
 
+This was the first time we were using Blockchain, and we had no knowledge or experience with it before. It took a lot of research and time to understand how Blockchain works, and how we can use it to leverage a secure way to tranfer tokens and other valuables. Moreover, with the tight time restrictions, it took time to build a functional web3 game. Working with Near and Avalanche representatives really aided us and we were able to bring forth this idea.
 
+### Accomplishments we're Proud Of
+
+We're proud to be able to bring forth a way for users to leverage a way of payment for web3 players by using Blockchain wallets, a growing futuristic method of payment and transfer of valuables. Above all else, we're proud to be able to learn to leverage this new technology from scratch and implement it to create functional projects.
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
