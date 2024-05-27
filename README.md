@@ -10,7 +10,11 @@ DinoNFT is a simple web3 dino running game, similar to that of the google offlin
 
 As the player continues to play the game, for every time his score increases by 100, the player is rewarded through tokens via the authorizer's blockchain wallet to the players wallet. For the premise of this project, we decided to use Avalanche BlockChain to set up the owner's wallet and connect it to the code using Hardhat while we used MetaMask as the player's wallet to test the program. 
 
-The goal of this project was for a proof of concept and to demonstrate how we can create a reward system for the player using blockchain for more advanced games. We tried to implement a backend for DinoNFT using Firebase in order to understand how a blockchain works and to test its security but ran out of time due to the time contriction in the Hackathon. 
+The goal of this project was for a proof of concept and to demonstrate how we can create a reward system for the player using blockchain for more advanced games. We tried to implement a backend for DinoNFT using Firebase in order to understand how a blockchain works and to test its security but ran out of time due to the time constriction in the Hackathon, but the key features were developing a fun and interactive web3 game, establsihing a connection with blockchain wallets, and creating this reward system.
+
+### How We Built It
+
+
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
