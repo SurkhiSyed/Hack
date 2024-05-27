@@ -28,6 +28,11 @@ We're proud to be able to bring forth a way for users to leverage a way of payme
 
 Altough due to the time contriction, DinoNFT came as a prototype and did not quite encorporate all our visions, we aim to continue developing it to our goal. Beyond establishing a secure connection between the owner and player's wallets, we will develop the project to start tranferring tokens effectively. Furthermore, we will set up DinoNFT as a React.js app and develop a way for the transfer of tokens through a multi-game platform.
 
+
+
+https://github.com/SurkhiSyed/Hack/assets/86132908/8bf9ef84-c5e9-478e-9c8d-598660a41585
+
+
 ***
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
