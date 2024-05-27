@@ -14,6 +14,10 @@ The goal of this project was for a proof of concept and to demonstrate how we ca
 
 ### How We Built It
 
+This projedct was built using Javascript and p5.js along with various game components such as sprites. Although trying to encorporate React.js, due to some compliations, we were unable to encorporate React.js before the time limit, and HTML and CSS were used to create the webpage that would host the web3 game. An Avalanche wallet and Hardhat were used in an attempt to establish a smart contract. 
+
+### Chaellenges We Ran Into
+
 
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
